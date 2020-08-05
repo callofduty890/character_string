@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1082
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "第九天代码", "第九天代码\第九天代码.csproj", "{86CF493E-57F3-4123-B5B4-5A36D3A2DB0E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00_成员的访问权限", "第九天代码\00_成员的访问权限.csproj", "{86CF493E-57F3-4123-B5B4-5A36D3A2DB0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_调用测试程序", "01_调用测试程序\01_调用测试程序.csproj", "{CEBB454E-B326-4DAA-A306-052E1A0824EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_索引器", "03_索引器\03_索引器.csproj", "{C054C147-A99E-4D6A-8896-1CB7AC8170D0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{86CF493E-57F3-4123-B5B4-5A36D3A2DB0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86CF493E-57F3-4123-B5B4-5A36D3A2DB0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86CF493E-57F3-4123-B5B4-5A36D3A2DB0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEBB454E-B326-4DAA-A306-052E1A0824EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEBB454E-B326-4DAA-A306-052E1A0824EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEBB454E-B326-4DAA-A306-052E1A0824EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEBB454E-B326-4DAA-A306-052E1A0824EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C054C147-A99E-4D6A-8896-1CB7AC8170D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C054C147-A99E-4D6A-8896-1CB7AC8170D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C054C147-A99E-4D6A-8896-1CB7AC8170D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C054C147-A99E-4D6A-8896-1CB7AC8170D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
