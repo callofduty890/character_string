@@ -27,6 +27,7 @@ namespace _03_索引器
             Console.WriteLine(temp.temps[0]);
             Console.WriteLine(temp.temps[1]);
             Console.WriteLine("=================");
+            //使用索引器进行访问数组变量的值
             Console.WriteLine(temp[0]);
             Console.WriteLine(temp[1]);
             Console.ReadKey();

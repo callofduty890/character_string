@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_调用测试程序", "01
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_索引器", "03_索引器\03_索引器.csproj", "{C054C147-A99E-4D6A-8896-1CB7AC8170D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_嵌套类", "04_嵌套类\04_嵌套类.csproj", "{B2A32FDA-3400-43CD-827A-C0A784FBC3AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{C054C147-A99E-4D6A-8896-1CB7AC8170D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C054C147-A99E-4D6A-8896-1CB7AC8170D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C054C147-A99E-4D6A-8896-1CB7AC8170D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2A32FDA-3400-43CD-827A-C0A784FBC3AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2A32FDA-3400-43CD-827A-C0A784FBC3AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2A32FDA-3400-43CD-827A-C0A784FBC3AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2A32FDA-3400-43CD-827A-C0A784FBC3AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
